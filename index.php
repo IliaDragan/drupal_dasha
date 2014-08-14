@@ -1,5 +1,6 @@
 <?php
 
+$a = "Hello, world."
 
 ?>
 <html>
