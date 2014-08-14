@@ -11,6 +11,7 @@ Dasha test GIT
 </title>
 </head>
 <body>
-<?php echo $a;?>
+<?php echo $a; ?>
+<?php echo $b; ?>
 </body>
 </html>
