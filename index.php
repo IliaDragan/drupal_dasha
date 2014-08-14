@@ -2,6 +2,7 @@
 
 $a = "Hello, world."
 
+$b = "My name is dasha";
 ?>
 <html>
 <head>
