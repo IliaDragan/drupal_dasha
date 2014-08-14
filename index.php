@@ -2,6 +2,7 @@
 
 $a = "Hello, world."
 
+$b = "My name is dasha";
 ?>
 <html>
 <head>
@@ -10,6 +11,7 @@ Dasha test GIT
 </title>
 </head>
 <body>
-<?php echo $a;?>
+<?php echo $a; ?>
+<?php echo $b; ?>
 </body>
 </html>
